@@ -2,6 +2,10 @@
 
 # <div align="center"> FunDA_Project_2020 <div>
   
+## Author: Shane Rylands
+
+### G00387904@gmit.ie
+  
 This repository contains my submission for the Fundamentals of Data Analysis project 2020.
 
 ## Instructions
